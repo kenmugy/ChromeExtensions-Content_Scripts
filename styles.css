@@ -1,0 +1,7 @@
+.clockOnTop {
+    position: fixed;
+    top: 0;
+    border: 1px solid;
+    font-size: 30px;
+    font-family: monospace;
+}
